@@ -1,0 +1,35 @@
+body{
+    background: url(zakat.jpg);
+    width: 95%;
+    height: 100vh;
+     background-size: cover;
+     background-position: center; 
+       
+}
+
+  .zpic{
+            width: 400px;
+             margin-top: 50px;
+             margin-left: 20px;
+            
+            
+
+        
+
+  }
+
+h1{
+    color: green
+    ;
+  }
+
+  button{
+    font-size: 15px;
+    
+  }
+
+  button:hover{
+    font-size: 20px;
+    color: rgb(80, 80, 90);
+    
+  }
